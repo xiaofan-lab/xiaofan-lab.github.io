@@ -3,6 +3,7 @@ layout: member
 title: Zhongping He
 position: Master student
 linkedin: zhongping-he-coolguy
+time: May 2023 - present
 image: /images/team/He_Zhongping.png
 ---
 

@@ -3,6 +3,7 @@ layout: member
 title: Matthew M. Pinto
 position: Undergraduate student
 linkedin: matthew-pinto-cbme
+time: May 2023 - present
 image: /images/team/Pinto_Matthew.png
 ---
 

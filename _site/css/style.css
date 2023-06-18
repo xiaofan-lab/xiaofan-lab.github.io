@@ -73,7 +73,9 @@ b, strong { font-weight: bold; }
 
 .smallhead { font-size: 19px; font-weight: 300; line-height: 23px; /* Museo */ }
 
-.note, .footernav { font-size: 15px; font-weight: 300; line-height: 18px; /* Museo */ }
+.note, .footernav { font-size: 15px; font-weight: 300; line-height: 19px; /* Museo */ }
+
+.footnote { font-size: 15px; font-weight: 300; line-height: 19px; color: gray; /* Museo */ }
 
 .smallnote { font-size: 13px; font-weight: 300; line-height: 16px; /* Museo */ }
 

@@ -2,7 +2,9 @@
 layout: member
 title: Tejaswini Nandu
 position: Master student
+time: June 2023 - present
 linkedin: tejaswini-nandu
+image: /images/team/Nandu_Tejaswini.png
 
 ---
 

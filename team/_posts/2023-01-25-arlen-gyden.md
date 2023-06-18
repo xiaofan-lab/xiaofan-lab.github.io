@@ -3,6 +3,7 @@ layout: member
 title: Arlen L. Gyden
 position: Undergraduate student
 linkedin: arlen-gyden
+time: January 2023 - present
 image: /images/team/Gyden_Arlen.png
 ---
 
