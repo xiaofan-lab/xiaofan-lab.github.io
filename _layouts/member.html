@@ -69,14 +69,14 @@ layout: default
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
-		{% if member.calendar %}
+		{% if member.linkedin %}
 		<div class="smallhead">
-			Calendar
+			LinkedIn
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
-			<i class="fa fa-calendar fa-fw"></i>
-			<a class="off" href="{{ member.calendar }}">{{ member.title }}</a>
+			<i class="fa fa-linkedin fa-fw"></i>
+			<a class="off" href="https://www.linkedin.com/in/{{ member.linkedin }}">{{ member.title }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
