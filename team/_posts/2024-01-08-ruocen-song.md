@@ -4,7 +4,7 @@ title: Ruocen Song
 position: PhD student
 time: January 2024 - present
 linkedin: ruocen-song-3437262a9
-image: /images/team/Song_ruocen.png
+image: /images/team/Song_Ruocen.png
 
 ---
 
