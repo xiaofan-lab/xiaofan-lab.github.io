@@ -4,6 +4,7 @@ title: Akash Gajjar
 position: Master student
 linkedin: akashagajjar
 time: January 2024 - present
+alumni: true
 image: /images/team/Gajjar_Akash.png
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: member
 title: Huaikuan Sun
-position: Master student
-time: December 2023 - present
+position: Master graduate, PhD student
+time: December 2023 - July 2024, August 2024 - present
 linkedin: huaikuansun
 image: /images/team/Sun_Huaikuan.png
 

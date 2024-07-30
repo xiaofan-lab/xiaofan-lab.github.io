@@ -1,9 +1,8 @@
 ---
 layout: member
 title: Tejaswini Nandu
-position: Master student
-time: January 2024 - April 2024
-alumni: true
+position: Master graduate, Research assistant
+time: January 2024 - April 2024, August 2024 - present
 linkedin: tejaswini-nandu
 image: /images/team/Nandu_Tejaswini.png
 
