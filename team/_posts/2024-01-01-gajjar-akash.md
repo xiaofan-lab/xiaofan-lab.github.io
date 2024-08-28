@@ -3,7 +3,7 @@ layout: member
 title: Akash Gajjar
 position: Master student
 linkedin: akashagajjar
-time: January 2024 - present
+time: January - May 2024
 alumni: true
 image: /images/team/Gajjar_Akash.png
 ---

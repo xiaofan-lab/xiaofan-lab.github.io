@@ -3,7 +3,7 @@ layout: member
 title: Chintan Acharya
 position: Master student
 linkedin: chintan-acharya-b5757a192
-time: January 2024 - April 2024
+time: January - May 2024
 alumni: true
 image: /images/team/Acharya_Chintan.png
 ---
