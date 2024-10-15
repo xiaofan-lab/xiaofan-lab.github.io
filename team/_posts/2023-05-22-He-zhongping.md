@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Zhongping He
-position: Master student
+position: Master graduate, currently a PhD student at Indiana University
 linkedin: zhongping-he-coolguy
 time: May 2023 - May 2024
 alumni: true
