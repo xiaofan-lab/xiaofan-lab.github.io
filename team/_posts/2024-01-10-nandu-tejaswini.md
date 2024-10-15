@@ -1,9 +1,10 @@
 ---
 layout: member
 title: Tejaswini Nandu
-position: Master graduate, Research assistant
-time: January 2024 - April 2024, August 2024 - present
+position: Master graduate, currently Data Scientist at Walmart
+time: January 2024 - April 2024, August - October 2024
 linkedin: tejaswini-nandu
+alumni: true
 image: /images/team/Nandu_Tejaswini.png
 
 ---

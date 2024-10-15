@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Akash Gajjar
-position: Master student
+position: Master graduate, currently at Sumble
 linkedin: akashagajjar
 time: January - May 2024
 alumni: true

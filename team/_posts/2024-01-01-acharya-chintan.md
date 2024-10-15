@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Chintan Acharya
-position: Master student
+position: Master graduate, currently research assistant at UF Fang Lab
 linkedin: chintan-acharya-b5757a192
 time: January - May 2024
 alumni: true
